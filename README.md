@@ -5,7 +5,7 @@ I'm a Software Engineer with backend development specialization. Here are a few 
 - 🔭 I’m currently working on ClinicBase.
 - 🌱 I’m currently learning NodeJs and Flask.
 - 💬 Ask me about Backend frameworks.
-- 📫 How to reach me: [Your Contact Information].
+- 📫 How to reach me: danmata2341@gmail.com.
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: I play the guitar among other instruments.
 
