@@ -20,7 +20,7 @@ I'm an **Optometrist and aspiring Vision Scientist** from Ghana 🇬🇭, passio
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=danielfrempong&show_icons=true&theme=tokyonight" alt="Daniel's GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Gig2341&show_icons=true&theme=tokyonight" alt="Daniel's GitHub stats"/>
 </p>
 
 ## 📫 Connect With Me
