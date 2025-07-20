@@ -1,12 +1,30 @@
-# Hello, I'm Daniel!
+# 👋 Hi, I'm Daniel Frempong
 
-I'm a Software Engineer with backend development specialization. Here are a few things you should know about me:
+I'm an **Optometrist and aspiring Vision Scientist** from Ghana 🇬🇭, passionate about health informatics, eye health, and data analytics.
 
-- 🔭 I’m currently working on ClinicBase.
-- 🌱 I’m currently learning NodeJs and Flask.
-- 💬 Ask me about Backend frameworks.
-- 📫 How to reach me: danmata2341@gmail.com.
-- 😄 Pronouns: He/Him.
-- ⚡ Fun fact: I play the guitar among other instruments.
+## 🚀 What I’m Working On
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
+- 🧠 Vision Science Research
+- 📊 Health Informatics Projects
+- 🌍 Global Eye Health Impact
+
+## 🛠️ Languages & Tools
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
+</p>
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=danielfrimpong&show_icons=true&theme=tokyonight" alt="Daniel's GitHub stats"/>
+</p>
+
+## 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://linkedin.com/in/YOUR-LINK)
+[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:your.email@example.com)
+
