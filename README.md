@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Daniel Frempong
 
-I'm an **Optometrist and aspiring Vision Scientist** from Ghana 🇬🇭, passionate about health informatics, eye health, and data analytics.
+I'm an **Optometrist and aspiring Vision Scientist** from Ghana 🇬🇭, passionate about health informatics, eye health, and data science.
 
 ## 🚀 What I’m Working On
 
